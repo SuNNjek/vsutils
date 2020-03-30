@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="vsutils-Sunner", # Replace with your own username
+    name="vsutils",
     version="0.0.1",
     author="Sunner",
     author_email="sunnerlp@gmail.com",
