@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setup(
+setup_args = dict(
     name="vsutils",
     version="0.0.3",
     author="Sunner",
