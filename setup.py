@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="vsutils",
-    version="0.0.1",
+    version="0.0.2",
     author="Sunner",
     author_email="sunnerlp@gmail.com",
     description="Some utilities to add some of the 'missing' functions that are in AVISynth but not Vapoursynth",
